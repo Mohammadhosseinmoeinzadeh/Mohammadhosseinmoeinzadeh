@@ -35,7 +35,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhosseinmoeinzadeh&layout=compact&langs_count=6&theme=tokyonight" />
+  ### 📈 mohammad hossein's GitHub Stats
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadhosseinmoeinzadeh&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used?username=mohammadhosseinmoeinzadeh&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohammadhosseinmoeinzadeh&theme=github_dark"/>
+
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhosseinmoeinzadeh&layout=compact&theme=tokyonight" />
 </p>
