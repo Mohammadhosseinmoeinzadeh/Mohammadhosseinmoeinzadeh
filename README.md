@@ -35,7 +35,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  ### 📈 mohammad hossein's GitHub Stats
+ 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadhosseinmoeinzadeh&theme=github_dark"/>
 
