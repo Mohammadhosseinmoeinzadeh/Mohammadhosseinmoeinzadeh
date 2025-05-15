@@ -33,15 +33,16 @@
 ---
 
 ## 📊 GitHub Stats
+### 📈 GitHub Stats
 
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadhosseinmoeinzadeh&theme=github_dark)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-used?username=mohammadhosseinmoeinzadeh&theme=github_dark)
+
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohammadhosseinmoeinzadeh&theme=github_dark)
 <p align="center">
  
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadhosseinmoeinzadeh&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used?username=mohammadhosseinmoeinzadeh&theme=github_dark" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohammadhosseinmoeinzadeh&theme=github_dark"/>
 
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhosseinmoeinzadeh&layout=compact&theme=tokyonight" />
