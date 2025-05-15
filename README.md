@@ -13,7 +13,7 @@
 - 💻 I work with **C++** for performance and **Python** for automation & AI  
 - 🌱 Currently learning more about **embedded systems & system programming**
 - 📫 How to reach me:  
-  - 📧 Email: mohammadhosseinmoeinzadeh@gmail.com  
+  - 📧 Email: mohammad.hossein.1074@gmail.com  
   - 📷 Instagram: [@mohammadhosseinmoeinzadeh](https://instagram.com/mohammadhosseinmoeinzadeh)
 
 ---
