@@ -35,7 +35,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhosseinmoeinzadeh&layout=compact&langs_count=6&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhosseinmoeinzadeh&layout=compact&langs_count=6&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhosseinmoeinzadeh&layout=compact&theme=tokyonight" />
 </p>
